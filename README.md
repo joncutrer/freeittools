@@ -1,5 +1,4 @@
-# Free IT Tools
-## *Cheap/Free/Homemade IT Tools*
+# *Cheap/Free/Homemade IT Tools*
 
 As presented at **TECIT 2017**, *11th Annual Information Technology Conference & Exhibit Show* in San Antonio, Texas
 
