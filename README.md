@@ -4,10 +4,12 @@ As presented at **TECIT 2017**, *11th Annual Information Technology Conference &
 
 ## Jonathan's Top 3
 
-* [The Dude](https://mikrotik.com/thedude) - Graphical (NMS) Network Monitoring Server by MikroTik. FREE
-* [Trello](https://trello.com/jcutrer/recommend) - Web-based task & project tracking app based on Kanban methodology. FREE
-* [Duo2FA](https://duo.com/) - Add two-factor authentication to most Remote access VPN firewalls.  FREE up to 10 users.
+* **[The Dude](https://mikrotik.com/thedude)** - Graphical (NMS) Network Monitoring Server by MikroTik. FREE
+* **[Trello](https://trello.com/jcutrer/recommend)** - Web-based task & project tracking app based on Kanban methodology. FREE
+* **[Duo2FA](https://duo.com/)** - Add two-factor authentication to most Remote access VPN firewalls.  FREE up to 10 users.
 
+* **[Desktop Central](https://www.manageengine.com/products/desktop-central/)** - Patch Management, Software/Hardware Inventory, Remote Control, Software Deployment, and Configuration Management.  Free Edition available for 25 computers.
+* **Office Lens App** - Turn your phone into a document scanner w/ this Microsoft mobile app.  Scan multiple pages, auto-straighten, create PDFs or save to OneDrive. [Windows](https://www.microsoft.com/en-us/store/p/office-lens/9wzdncrfj3t8) [Android](https://play.google.com/store/apps/details?id=com.microsoft.office.officelens&hl=en) [iOS](https://itunes.apple.com/us/app/office-lens/id975925059?mt=8)
 
 ## Robert's Top 3
 
@@ -29,3 +31,4 @@ As presented at **TECIT 2017**, *11th Annual Information Technology Conference &
 
 ## Sergey's Top 3
 
+* **Title** - Description http://link
