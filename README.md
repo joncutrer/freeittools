@@ -2,7 +2,7 @@
 
 As presented at **TECIT 2017**, *11th Annual Information Technology Conference & Exhibit Show* in San Antonio, Texas
 
-## Jonathan's Top 3
+## Jonathan's List
 
 * **[The Dude](https://mikrotik.com/thedude)** - Graphical (NMS) Network Monitoring Server by MikroTik. FREE
 * **[Trello](https://trello.com/jcutrer/recommend)** - Web-based task & project tracking app based on Kanban methodology. FREE
@@ -12,7 +12,7 @@ As presented at **TECIT 2017**, *11th Annual Information Technology Conference &
 * **Office Lens App** - Turn your phone into a document scanner w/ this Microsoft mobile app.  Scan multiple pages, auto-straighten, create PDFs or save to OneDrive. [Windows](https://www.microsoft.com/en-us/store/p/office-lens/9wzdncrfj3t8), [Android](https://play.google.com/store/apps/details?id=com.microsoft.office.officelens&hl=en), [iOS](https://itunes.apple.com/us/app/office-lens/id975925059?mt=8)
 * **[LastPass](https://www.lastpass.com/)** - Every IT Professional should use a Password Manager and generate unique passwords per login.  LastPass is a great option although not as secure as KeePass.
 
-## Robert's Top 3
+## Robert's List
 
 * **Microsoft Safety Scanner** – Remove Spyware, malware, viruses and more. 32 or 64 bit, expires 10 days after download. https://www.microsoft.com/security/scanner/en-us/default.aspx 
 * **Nmap** – Open source utility for network discovery and security auditing. https://nmap.org/ 
@@ -30,6 +30,6 @@ As presented at **TECIT 2017**, *11th Annual Information Technology Conference &
 
 
 
-## Sergey's Top 3
+## Sergey's List
 
 * **Title** - Description http://link
