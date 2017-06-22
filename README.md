@@ -12,6 +12,7 @@ As presented at **TECIT 2017**, *11th Annual Information Technology Conference &
 * **Office Lens App** - Turn your phone into a document scanner w/ this Microsoft mobile app.  Scan multiple pages, auto-straighten, create PDFs or save to OneDrive. [Windows](https://www.microsoft.com/en-us/store/p/office-lens/9wzdncrfj3t8), [Android](https://play.google.com/store/apps/details?id=com.microsoft.office.officelens&hl=en), [iOS](https://itunes.apple.com/us/app/office-lens/id975925059?mt=8)
 * **[LastPass](https://www.lastpass.com/)** - Every IT Professional should use a Password Manager and generate unique passwords per login.  LastPass is a great option although not as secure as KeePass.
 * **[AirParrot](http://www.airsquirrels.com/airparrot/)** - Apple AirPlay client for Windows computers.  Wire up an Apple TV in your boardroom/conf room and Macs, iPads as well as Windows laptops can easily present, wirelessly!
+* **[Pencil Project](http://pencil.evolus.vn/)** - Network Diagram & Flowchart drawing software. A FREE alternative to Microsoft Visio.
 
 
 ## Robert's List
