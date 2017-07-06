@@ -35,4 +35,8 @@ As presented at **TECIT 2017**, *11th Annual Information Technology Conference &
 
 ## Sergey's List
 
-* **Title** - Description http://link
+* **JIRA** – Helpdesk and Project Tracking https://www.atlassian.com/software/jira
+* **Graylog** – Open Source Centralized Log Server https://www.graylog.org/
+* **KeePass** – Password Management http://keepass.info/
+
+
